@@ -16,9 +16,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Bay Area, California.
 
-- 🔭 I’m training as a Full-Stack Developer and contributing to frontend and backend for building web applications.
+- 🔭 I’m training as a Full-Stack Developer and contributing to frontend and backend for building applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I solve problems on LeetCode and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jj-blue?style=flat&logo=Linkedin&logoColor=white)](([https://www.linkedin.com/in/jjwang2022/]))
 
 ---

@@ -53,12 +53,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Blog Posts : 
+- [Deploying my first Application] (https://medium.com/@jonathanjacobwang/deploying-my-first-application-on-netlify-share-my-movie-search-app-with-the-world-547d135619fd)
 - [Building a Joke Generator with Backend Integration
 ](https://medium.com/@jonathanjacobwang/building-a-joke-generator-with-backend-integration-6a8f44233c5c)
 - [Exploring the Versatility of JavaScript’s .match() Method for Molar Mass Calculation
 ](https://medium.com/@jonathanjacobwang/exploring-the-versatility-of-javascripts-match-method-for-molar-mass-calculation-fc99efb36295)
 - [Interesting type coercion in counter app](https://medium.com/@jonathanjacobwang/interesting-type-coercion-in-counter-app-a95e7fc8ca66)
-- [parse.int default behavior
-](https://medium.com/@jonathanjacobwang/parse-int-default-behavior-59d5047a0d78)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

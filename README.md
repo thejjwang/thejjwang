@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Blog Posts : 
-- [Deploying my first Application] (https://medium.com/@jonathanjacobwang/deploying-my-first-application-on-netlify-share-my-movie-search-app-with-the-world-547d135619fd)
+- [Deploying my first Application](https://medium.com/@jonathanjacobwang/deploying-my-first-application-on-netlify-share-my-movie-search-app-with-the-world-547d135619fd)
 - [Building a Joke Generator with Backend Integration
 ](https://medium.com/@jonathanjacobwang/building-a-joke-generator-with-backend-integration-6a8f44233c5c)
 - [Exploring the Versatility of JavaScript’s .match() Method for Molar Mass Calculation
